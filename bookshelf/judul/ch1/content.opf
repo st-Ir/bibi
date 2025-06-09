@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:publisher>Infogrid Pacific</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Infogrid Pacific</dc:creator>
+    <meta name="calibre:timestamp" content="2019-12-07T02:38:12.911883+00:00"/>
+    <dc:title>Famous Paintings</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2012-12-15T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.21.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">63912178-abce-4816-b882-930cb32d6207</dc:identifier>
+    <dc:subject>Fixed Layout Demonstration</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="OPS/images/famouspaintings.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="OPS/fonts/Chunk.woff" id="fonts-009" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_I.woff" id="fonts-006" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_R.woff" id="fonts-008" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_RB.woff" id="fonts-001" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_RBI.woff" id="fonts-011" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_RI.woff" id="fonts-002" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_RZ.woff" id="fonts-010" media-type="application/font-woff"/>
+    <item href="OPS/fonts/LinLibertine_RZI.woff" id="fonts-012" media-type="application/font-woff"/>
+    <item href="OPS/fonts/SourceSansPro-Bold.woff" id="fonts-016" media-type="application/font-woff"/>
+    <item href="OPS/fonts/SourceSansPro-BoldIt.woff" id="fonts-014" media-type="application/font-woff"/>
+    <item href="OPS/fonts/SourceSansPro-It.woff" id="fonts-003" media-type="application/font-woff"/>
+    <item href="OPS/fonts/SourceSansPro-Regular.woff" id="fonts-013" media-type="application/font-woff"/>
+    <item href="OPS/fonts/URWPalladioL-Bold.woff" id="fonts-015" media-type="application/font-woff"/>
+    <item href="OPS/fonts/URWPalladioL-BoldItal.woff" id="fonts-005" media-type="application/font-woff"/>
+    <item href="OPS/fonts/URWPalladioL-Ital.woff" id="fonts-004" media-type="application/font-woff"/>
+    <item href="OPS/fonts/URWPalladioL-Roma.woff" id="fonts-007" media-type="application/font-woff"/>
+    <item href="OPS/images/ambassadors_thum_online.jpg" id="images-010" media-type="image/jpeg"/>
+    <item href="OPS/images/bedroom_thum_online.jpg" id="images-017" media-type="image/jpeg"/>
+    <item href="OPS/images/cafe_thum_online.jpg" id="images-005" media-type="image/jpeg"/>
+    <item href="OPS/images/copyright_1366x768_online.jpg" id="images-013" media-type="image/jpeg"/>
+    <item href="OPS/images/covertitle_online.jpg" id="images-004" media-type="image/jpeg"/>
+    <item href="OPS/images/de_nachtwacht01_online.jpg" id="images-012" media-type="image/jpeg"/>
+    <item href="OPS/images/dream_thum_online.jpg" id="images-009" media-type="image/jpeg"/>
+    <item href="OPS/images/hans_holbein_the_younger_the_ambassadors_online.jpg" id="images-014" media-type="image/jpeg"/>
+    <item href="OPS/images/henri_rousseau_il_sogno_online.jpg" id="images-007" media-type="image/jpeg"/>
+    <item href="OPS/images/infogridpacificlogo_online.png" id="images-016" media-type="image/png"/>
+    <item href="OPS/images/mother_thum_online.jpg" id="images-015" media-type="image/jpeg"/>
+    <item href="OPS/images/nachtwacht_thum_online.jpg" id="images-011" media-type="image/jpeg"/>
+    <item href="OPS/images/the_ambassadors_skull_online.jpg" id="images-001" media-type="image/jpeg"/>
+    <item href="OPS/images/title_online.jpg" id="images-008" media-type="image/jpeg"/>
+    <item href="OPS/images/vincent_willem_van_gogh_015_online.jpg" id="images-002" media-type="image/jpeg"/>
+    <item href="OPS/images/vincent_willem_van_gogh_137_online.jpg" id="images-006" media-type="image/jpeg"/>
+    <item href="OPS/images/whistlers_mother_james_abbott_mcneill_whistler_online.jpg" id="images-003" media-type="image/jpeg"/>
+    <item href="OPS/s001-Cover-01.xhtml" id="s001" media-type="application/xhtml+xml"/>
+    <item href="OPS/s002-BookTitlePage-01.xhtml" id="s002" media-type="application/xhtml+xml"/>
+    <item href="OPS/s003-Copyright-01.xhtml" id="s003" media-type="application/xhtml+xml"/>
+    <item href="OPS/s004-Section-001.xhtml" id="s004" media-type="application/xhtml+xml"/>
+    <item href="OPS/s005-Section-002.xhtml" id="s005" media-type="application/xhtml+xml"/>
+    <item href="OPS/s006-Section-003.xhtml" id="s006" media-type="application/xhtml+xml"/>
+    <item href="OPS/s007-Section-004.xhtml" id="s007" media-type="application/xhtml+xml"/>
+    <item href="OPS/s008-Section-005.xhtml" id="s008" media-type="application/xhtml+xml"/>
+    <item href="OPS/s009-Section-006.xhtml" id="s009" media-type="application/xhtml+xml"/>
+    <item href="OPS/s010-Section-007.xhtml" id="s010" media-type="application/xhtml+xml"/>
+    <item href="OPS/s011-Section-008.xhtml" id="s011" media-type="application/xhtml+xml"/>
+    <item href="OPS/s012-Chapter-001.xhtml" id="s012" media-type="application/xhtml+xml"/>
+    <item href="OPS/s013-Chapter-002.xhtml" id="s013" media-type="application/xhtml+xml"/>
+    <item href="OPS/s014-Chapter-003.xhtml" id="s014" media-type="application/xhtml+xml"/>
+    <item href="OPS/s015-Chapter-004.xhtml" id="s015" media-type="application/xhtml+xml"/>
+    <item href="OPS/s016-Chapter-005.xhtml" id="s016" media-type="application/xhtml+xml"/>
+    <item href="OPS/s017-Chapter-006.xhtml" id="s017" media-type="application/xhtml+xml"/>
+    <item href="OPS/s018-Section-009_split_000.xhtml" id="s0182" media-type="application/xhtml+xml"/>
+    <item href="OPS/s018-Section-009_split_001.xhtml" id="s0181" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="titlepage"/>
+    <itemref idref="s001"/>
+    <itemref idref="s002"/>
+    <itemref idref="s003"/>
+    <itemref idref="s004"/>
+    <itemref idref="s005"/>
+    <itemref idref="s006" linear="no"/>
+    <itemref idref="s007" linear="no"/>
+    <itemref idref="s008" linear="no"/>
+    <itemref idref="s009" linear="no"/>
+    <itemref idref="s010" linear="no"/>
+    <itemref idref="s011" linear="no"/>
+    <itemref idref="s012" linear="no"/>
+    <itemref idref="s013" linear="no"/>
+    <itemref idref="s014" linear="no"/>
+    <itemref idref="s015" linear="no"/>
+    <itemref idref="s016" linear="no"/>
+    <itemref idref="s017" linear="no"/>
+    <itemref idref="s0182"/>
+    <itemref idref="s0181"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover Image" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="63912178-abce-4816-b882-930cb32d6207" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Famous Paintings</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="uNu5rNVv7kv2hSEbmegmmwA" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="OPS/s001-Cover-01.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="upRz7dSV7zwyYwO4RzWUSbG" playOrder="2">
+      <navLabel>
+        <text>Famous Paintings</text>
+      </navLabel>
+      <content src="OPS/s002-BookTitlePage-01.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="uWeU27ogjytXJL3rnHzZaVF" playOrder="3">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="OPS/s003-Copyright-01.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="u6DAXyDIbddc8kAo9tOVkBG" playOrder="4">
+      <navLabel>
+        <text>Explore</text>
+      </navLabel>
+      <content src="OPS/s004-Section-001.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="u7eKg77r6JOWNJQZ2ERSKTF" playOrder="5">
+      <navLabel>
+        <text>Famous Paintings</text>
+      </navLabel>
+      <content src="OPS/s005-Section-002.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="u83gyZrRLUYec8UOXnHvMVH" playOrder="6">
+      <navLabel>
+        <text>Colophon</text>
+      </navLabel>
+      <content src="OPS/s018-Section-009_split_000.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
